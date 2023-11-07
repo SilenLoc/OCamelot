@@ -1,0 +1,4 @@
+(executable
+ (public_name ocamelot)
+ (name main)
+ (libraries ocamelot))
